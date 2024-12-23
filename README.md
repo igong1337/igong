@@ -1,0 +1,2 @@
+# igong
+jadilah manusia heker 
