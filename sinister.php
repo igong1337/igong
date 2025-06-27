@@ -30,7 +30,7 @@ function login_shell($error = '') {
         <div class="bg-gray-800 p-6 rounded-xl shadow-xl w-full max-w-md text-white">
             <div class="text-center mb-6">
                 <i class="fas fa-user-shield text-blue-400 text-4xl"></i>
-                <h1 class="text-2xl font-bold mt-2">SINISTER v2.0</h1>
+                <h1 class="text-2xl font-bold mt-2">SINISTER V1.0</h1>
                 <p class="text-gray-400 text-sm">Restricted Access</p>
             </div>
             <form method="POST" class="space-y-4">
@@ -922,7 +922,7 @@ if ($_GET['don'] == true) {
                 <div class="flex items-center justify-between mb-6 md:flex hidden">
                     <div class="flex items-center">
                         <i class="fas fa-robot text-blue-400 text-2xl mr-2 cyber-glow"></i>
-                        <h1 class="text-xl font-bold cyber-font">SINISTER<span class="text-blue-400 cyber-glow">v2.0</span></h1>
+                        <h1 class="text-xl font-bold cyber-font">SINISTER<span class="text-blue-400 cyber-glow">V1.0</span></h1>
                     </div>
                     <button class="close-sidebar md:hidden text-gray-400 hover:text-white">
                         <i class="fas fa-times"></i>
